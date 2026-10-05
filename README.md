@@ -7,6 +7,7 @@ It helps users understand medical information in simple language through AI expl
 > ⚠️ **Medical Disclaimer:** MedExplain AI is intended for educational and informational purposes only. It does not provide medical diagnoses or replace advice from a qualified healthcare professional.
 
 ---
+![MedExplain_AI](https://github.com/Sriharsha-19/MedExplain-AI/blob/6095743f41eac5e9e722902e4de25e24236d84b8/Interface.png)
 
 ## ✨ Features
 
