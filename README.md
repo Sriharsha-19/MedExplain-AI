@@ -54,6 +54,7 @@ Image analysis should not be considered a medical diagnosis.
 Have a conversation with MedExplain AI about medical topics.
 
 The application maintains the conversation during the session.
+![MedExplain-AI](https://github.com/Sriharsha-19/MedExplain-AI/blob/7e8e8c26bd2eb39f525cef4a364fbed8fb14f5c1/AI-Chat.png)
 
 ### 📚 Medical Knowledge Base
 
