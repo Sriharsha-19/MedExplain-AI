@@ -68,6 +68,7 @@ Explore common medical topics such as:
 * Nutrition
 * Blood Tests
 * Heart Health
+  ![MedExplain-AI](https://github.com/Sriharsha-19/MedExplain-AI/blob/1e8a0c6cf3c72cbcbf9ab15392865719eb0a368f/Knowledge-base.png)
 
 ### 🌐 Multilingual Support
 
