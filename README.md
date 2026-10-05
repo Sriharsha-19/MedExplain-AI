@@ -34,6 +34,7 @@ The application extracts the report text and provides an educational analysis in
 * Results that may need attention
 * Results within the reported range
 * Questions to discuss with a doctor
+![MedExplain-AI](https://github.com/Sriharsha-19/MedExplain-AI/blob/c16698bd62d0d677f4c74b0f06df788fdd18bfda/Report-Analyzer.png)
 
 ### 🩻 Medical Image Analyzer
 
