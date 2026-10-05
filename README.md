@@ -16,6 +16,7 @@ It helps users understand medical information in simple language through AI expl
 Ask questions about medical terms, conditions, symptoms, tests, and treatments.
 
 The AI provides explanations in simple language.
+![MedExplain_AI](https://github.com/Sriharsha-19/MedExplain-AI/blob/6c9188b6cf0b5c7287944232ac5acdaa0ef23357/AI-Explainer.png)
 
 ### 📄 Medical Report Analyzer
 
